@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-9/7/2018
-
 class.cpp
 
 This is the implementation of class.h.
