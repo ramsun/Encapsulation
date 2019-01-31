@@ -2,7 +2,7 @@
 Ramamurthy Sundar
 class.cpp
 
-This is the implementation of class.h.
+This is the implementation of class.h
 
 */
 
