@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar 
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 1
-9/7/2018
-
 main.cpp 
 
 This is a tic tac toe command line interface.  There will be 2 players, player 1 and player 2;
