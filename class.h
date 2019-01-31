@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-9/7/2018
-
 class.h
 
 This is the header file for the TicTacToe class.  
