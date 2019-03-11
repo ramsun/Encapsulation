@@ -42,8 +42,8 @@ int main() {
 		t.printBoard();
 		cout << endl; cin >> move; cout << endl;
 		t.setMove(move, 'X');
-		count++;
-	\
+		count++
+			
 		//check whether there is a winner or not
 		if (t.isWinner()) {
 			cout << "Player 1 is the winner!" << endl;
