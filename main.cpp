@@ -23,7 +23,7 @@ using namespace std;
 
 int main() {
 
-	//initialization of TicTacToe Class and Board
+	//initialization of TicTacToe object and Board
 	TicTacToe t;
 	char arr[3][3] = { { '1','2','3' },{ '4','5','6' },{ '7','8','9' } };
 	t.initializeBoard(arr);
